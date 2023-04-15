@@ -79,3 +79,4 @@ gem 'sass-rails'
 
 gem 'erb-formatter'
 
+gem 'carrierwave'
