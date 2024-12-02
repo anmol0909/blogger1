@@ -1,5 +1,5 @@
 ActiveAdmin.register WhoWeAre do
-  permit_params :name, :designation, :description
+  permit_params :name, :designation, :description, :image
 
 
   # See permitted parameters documentation:
